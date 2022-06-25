@@ -46,3 +46,7 @@ features = [
     "migrate",
     "offline"
 ]
+
+[dev-dependencies]
+quickcheck = "0.9.2"
+quickcheck_macros = "0.9.1"
